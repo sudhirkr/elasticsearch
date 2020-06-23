@@ -25,5 +25,5 @@ open http://35.240.177.145:1358
 Refer to https://github.com/appbaseio/dejavu
 
 #### Check the data inside elasticsearch in tabular format through dejavu
-Connect to - http://root:ssl123435@35.240.177.145:9200
+Connect to - http://<username>:<password>@35.240.177.145:9200
 index - shakespeare
